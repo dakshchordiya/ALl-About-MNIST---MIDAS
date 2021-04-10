@@ -19,3 +19,11 @@
   
    **Training 0-9\train_ckpt** : Model Checkpoints for all Models in Part-2. <br /><br /> 
   
+  
+  # *Task-3* : Scripts for Part-3. <br /><br />
+
+   **Pretrained_vs_Scratch.ipynb** : Script to Compare and Analyse results from Transfer learning from the model trained in *Task-2\Training 0-9\Train0-9.ipynb* and a freshly trained Model. <br />
+  
+   **Transfer_Learning_and_Fresh_Learning_Model_Training.ipynb** : Script to Compare and Analyse results from Transfer learning from the model trained in *Training 0-9\Train0-9.ipynb* and a freshly trained Model.  <br />
+  
+   **train_ckpt** : Model Checkpoints for Part-3. <br /><br /> 
