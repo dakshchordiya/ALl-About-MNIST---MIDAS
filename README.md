@@ -8,5 +8,14 @@
   
    **Task 1.ipynb** : Script to train a Model on the Dataset provided using the Architecture derived from *Experimentation_with_CNN_Architectures.ipynb* <br />
   
-    **train_ckpt** : Model Checkpoints for Part-1. <br /><br /> 
+   **train_ckpt** : Model Checkpoints for Part-1. <br /><br /> 
+   
+   
+   # *Task-2* : Scripts for Part-2. <br /><br />
+
+   **Training 0-9\Train0-9.ipynb** : Script to train the Model from Task-1 on Dataset with 0-9 digits from dataset from Part-1 <br />
+  
+   **Transfer_Learning_and_Fresh_Learning_Model_Training.ipynb** : Script to Compare and Analyse results from Transfer learning from the model trained in *Training 0-9\Train0-9.ipynb* and a freshly trained Model.  <br />
+  
+   **Training 0-9\train_ckpt** : Model Checkpoints for all Models in Part-2. <br /><br /> 
   
